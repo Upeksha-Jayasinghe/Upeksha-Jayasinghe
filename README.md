@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Upeksha
 
-<!--
-**Upeksha-Jayasinghe/Upeksha-Jayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm passionate about Web Development and Open Source Projects.  
+Here you’ll find my projects, experiments, and contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m an undergraduate student in Sabaragamuwa University of  Sri Lanka. I am following my degree in Information System. 
+
+---
+
+## 📊 GitHub Stats
+![Upeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/upeksha-jayasinghe-687894367/?originalSubdomain=lk)  
+- 📧 Email: upekshajayasinghe2003@gmail.com 
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/Upeksha-Jayasinghe)
